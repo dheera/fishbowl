@@ -1,0 +1,7 @@
+# Aquarium backdrop
+
+`aquarium.png` was generated with the built-in imagegen tool for this project. It is a still background plate, rendered separately from the animated fish to minimize work per frame. All fish sprites are generated locally by `fish-art.js`.
+
+Generation prompt:
+
+Use case: photorealistic-natural. Asset type: static background plate for a full-screen interactive freshwater aquarium on a tablet, wide landscape 16:10 composition. Create an exquisitely realistic straight-on underwater aquarium photograph, camera submerged at fish height looking through crystal clear lightly turquoise freshwater. NO FISH OR ANIMALS anywhere: live fish will be added by software. Aquascape: lush natural vallisneria and delicate fern leaves primarily along the far left and far right edges, layered soft background greenery and dark weathered driftwood framing open clear teal water through the center upper two-thirds, a low natural slope of pale fine sand and rounded gray river pebbles across the bottom fifth, small mossy rocks. Subtle sunlight shafts from the upper left, organic dappled caustic lighting on sand, atmospheric depth. The center and upper-middle must stay uncluttered open teal-blue water for swimming fish, not a dense wall of plants. Rich realistic fine textures with restrained cinematic lighting, calm and immersive, natural rather than fantasy. No tank frame, no visible room, no glass reflections of a room, no logos, text, bubbles, decorations, fish, shrimp or snails. Edge to edge photographic freshwater ecosystem.
